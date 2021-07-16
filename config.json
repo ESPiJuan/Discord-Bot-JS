@@ -1,0 +1,4 @@
+{
+    "token":"ODE2NjUzNTM4MzkzNzE4ODE0.YD-F4A.lHLOJOQdn3oQCDr0pab9xKclLf8",
+    "commands":[{"command":"!test","action":"test"},{"command":"!ping","action":"pong"}]
+}
